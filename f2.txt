@@ -1,1 +1,2 @@
 echo "git exercise commit"
+echo "git -a test"
