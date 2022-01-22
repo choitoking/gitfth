@@ -1,3 +1,4 @@
 echo "git test"
 echo "git version test"
+echo "tag test"
 
